@@ -49,7 +49,7 @@ HR and department managers had no fast way to spot rising absenteeism or attenda
 - Built entirely on custom **DAX measures** for rate calculations and trend comparisons
 
 ## Preview
-![Dashboard preview](attendance analysis.jpg)
+![Dashboard preview][(attendance analysis.jpg](https://github.com/Nameer1026/Data-Analytics/blob/f8d5972543551024a686d9d01ae940ab943be492/attendance%20analysis.jpg))
 *Replace this with an actual screenshot or GIF of the dashboard — this is the single biggest thing that makes a repo like this land with a recruiter.*
 
 ## Key Insights
@@ -85,7 +85,7 @@ Sales leadership needed a faster way to see where revenue and margin were slippi
 - Custom **DAX measures** for margin %, period-over-period growth, and regional ranking
 
 ## Preview
-![Dashboard preview](store analysis.jpg)
+![Dashboard preview]([store analysis.jpg](https://github.com/Nameer1026/Data-Analytics/blob/f8d5972543551024a686d9d01ae940ab943be492/store%20analysis.jpg))
 *Replace this with an actual screenshot or short screen-recording GIF of the dashboard in use.*
 
 ## Key Insights
