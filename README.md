@@ -13,7 +13,7 @@ HR suspected attrition was rising in specific teams but had no structured way to
 - Interactive views let HR test hypotheses (e.g., "is overtime really the driver, or is it tenure?")
 
 ## Preview
-![Dashboard preview]()
+![Dashboard preview](https://github.com/Nameer1026/Data-Analytics/blob/main/HR%20analysis.jpg)
 *Replace this with an actual screenshot or GIF of the dashboard — this is what makes the repo scannable at a glance.*
 
 ## Key Insights
